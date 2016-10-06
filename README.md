@@ -1,6 +1,6 @@
 # DW Site Tools
 
-A package for [Sublime Text 3](https://www.sublimetext.com/3) that allows import/export of Adobe Dreamweaver™ site settings files (.STE) into Sublime Text projects.
+A package for [Sublime Text 3](https://www.sublimetext.com/3) that allows import/export of Adobe Dreamweaver™ site settings files (.STE) from/to Sublime Text projects.
 
 (S)FTP settings can be exported to/from sftp-config.json files for the [Sublime SFTP package](https://wbond.net/sublime_packages/sftp).
 
