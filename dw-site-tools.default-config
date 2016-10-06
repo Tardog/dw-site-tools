@@ -1,0 +1,37 @@
+{
+    # Enter the name of your site
+    "site_name": "",
+
+    # The root directory of your seit (absolute path)
+    "site_root": "",
+
+    # Image folder (optional, relative to site root)
+    "image_folder": "",
+
+    # Remote URL (optional)
+    "remote_url": "http://example.com",
+
+    # Remote path (server root)
+    "remote_path": "/",
+
+    # Remote access type (ftp/sftp/ftps)
+    "access_type": "ftp",
+
+    # Hostname of the remote server
+    "hostname": "example.com",
+
+    # Username for remote access
+    "remote_user": "",
+
+    # Password for remote access
+    "remote_password": "",
+
+    # Set to true if files should be uploaded automatically when saved
+    "auto_upload": False,
+
+    # Set to true if a checkout should be performed when the site is opend
+    "checkout_when_open": False,
+
+    # Set to true to connect to the remote server in passive mode
+    "passive_mode": False
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "command": "dwst_add_settings",
+        "caption": "DW Site Tools: Configure export settings...",
+        "args": {}
+    },
+    {
+        "command": "dwst_generate_site",
+        "caption": "DW Site Tools:  Export .ste file",
+        "args": {}
+    },
+    {
+        "command": "dwst_import_site",
+        "caption": "DW Site Tools:  Import existing .ste",
+        "args": {}
+    }
+]

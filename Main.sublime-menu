@@ -1,0 +1,28 @@
+[
+    {
+        "id": "project",
+        "children":
+        [
+            {
+                "caption": "DW Site Tools",
+                "mnemonic": "d",
+                "id": "dwst",
+                "children":
+                [
+                    {
+                        "command": "dwst_add_settings",
+                        "caption": "Configure export settings..."
+                    },
+                    {
+                        "command": "dwst_generate_site",
+                        "caption": "Export .ste file"
+                    },
+                    {
+                        "command": "dwst_import_site",
+                        "caption": "Import existing .ste"
+                    }
+                ]
+            }
+        ]
+    }
+]
